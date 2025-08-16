@@ -1,5 +1,5 @@
 #!/bin/bash
-# Autor: Faris (Fraeuwu)
+# Autor: Faris
 # Script para preparar entorno de compilación de ROM Android en Ubuntu
 
 set -e
