@@ -11,7 +11,7 @@ Clona el repositorio y ejecuta el script:
 ```bash
 git clone https://github.com/Fraeuwu/android-rom-setup.git
 cd android-rom-setup
-chmod +x setup_rom_env.sh
+chmod +x setup-android-rom.sh
 ./setup_rom_env.sh
 ```
 
